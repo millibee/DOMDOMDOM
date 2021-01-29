@@ -1,0 +1,15 @@
+.block {
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    flex: wrap;
+    margin: 2px;
+    color: lightgrey;
+    text-align: center;
+    float:left;
+  }
+
+  .clicks {
+      color: white;
+      font-family: 'Courier New', Courier, monospace;
+  }
